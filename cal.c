@@ -1,6 +1,6 @@
 #include<stdio.h>
 
 int main () {
-    printf("cal.c v1");
+    printf("laura v2");
     return 0;
 }
