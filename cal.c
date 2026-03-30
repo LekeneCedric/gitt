@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 int main () {
-    printf("cal.c cedric");
+    printf("cal.c cec");
 
     printf(" feat v2");
     printf(" feat test v2");
