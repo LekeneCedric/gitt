@@ -1,9 +1,8 @@
 #include<stdio.h>
 
 int main () {
-    printf("cal.c v2");
+    printf("cal.c cedric");
 
-    printf(" feat v2");
-    printf(" feat test v2");
+    printf("cal.c cedric2");
     return 0;
 }
